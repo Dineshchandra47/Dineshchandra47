@@ -54,10 +54,19 @@
 <img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dineshchandra47&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Dineshchandra47" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dineshchandra47&show_icons=true&locale=en&theme=tokyonight" alt="Dineshchandra47" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dineshchandra47&show_icons=true&locale=en&theme=tokyonight" alt="Dineshchandra47" /></p> -->
 
+<p>
+  
+  <img width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshchandra47&layout=compact&theme=tokyonight"  alt="Dineshchandra47" /> 
+   &nbsp; &nbsp; &nbsp;
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Dineshchandra47&show_icons=true&theme=tokyonight" alt="Dineshchandra47" />
+ 
+</p>
+&nbsp;
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshchandra47&&theme=tokyonight" alt="Dineshchandra47" /></p> -->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshchandra47&theme=tokyonight" alt="Dineshchandra47"/></p>

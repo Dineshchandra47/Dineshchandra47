@@ -90,3 +90,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![](https://github.com/talib789/talib789/blob/main/Images/bottom_header.svg)
+
+
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>

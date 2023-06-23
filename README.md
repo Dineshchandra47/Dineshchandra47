@@ -58,8 +58,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dineshchandra47&show_icons=true&locale=en&theme=tokyonight" alt="Dineshchandra47" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshchandra47&&theme=tokyonight" alt="Dineshchandra47" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshchandra47&&theme=tokyonight" alt="Dineshchandra47" /></p> -->
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshchandra47&theme=tokyonight" alt="Dineshchandra47"/></p>
+ 
 
 <hr clear="both">
  <br/>
@@ -75,7 +77,7 @@
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dineshchandra47&theme=tokyonight" alt="summarycard"/> </p>
 
- 
+
 ## 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshchandra47" alt="dineshchandra47" /></a> </p>
 

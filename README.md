@@ -46,7 +46,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{dineshchandra47}/count.svg" alt="dineshchandra47 :: Visitor's Count" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dineshchandra47&label=Profile%20views&color=0e75b6&style=flat" alt="dineshchandra47" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dineshchandra47&label=Profile%20views&color=0e75b6&style=flat" alt="dineshchandra47" /> </p> -->
 
 
 <hr clear="both">
@@ -60,13 +60,21 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshchandra47&&theme=tokyonight" alt="Dineshchandra47" /></p>
 
+
 <hr clear="both">
  <br/>
+
+ <!--
 <p align="center">
 <a href="https://github.com/Dineshchandra47"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dineshchandra47&theme=dracula" />
 </span></a> </p>
- <br/>
+ <br/> -->
+
+<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dineshchandra47&no-frame=true" alt="Dineshchandra47"/></p> -->
+
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dineshchandra47&theme=tokyonight" alt="summarycard"/> </p>
+
  
 ## 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshchandra47" alt="dineshchandra47" /></a> </p>
@@ -74,7 +82,6 @@
 
 
 <hr clear="both">
-
 <img src = 'https://github.com/talib789/talib789/blob/main/Images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
 
 ### 😜Here's a Joke for you:

@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dinesh Chandra</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -87,7 +87,7 @@
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dineshchandra47&theme=tokyonight" alt="summarycard"/> </p>
 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshchandra47" alt="dineshchandra47" /></a> </p>
 
 

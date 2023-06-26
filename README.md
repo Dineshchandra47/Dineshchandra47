@@ -46,7 +46,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{dineshchandra47}/count.svg" alt="dineshchandra47 :: Visitor's Count" /></p>
 
-<!- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dineshchandra47&label=Profile%20views&color=0e75b6&style=flat" alt="dineshchandra47" /> </p> -->
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dineshchandra47&label=Profile%20views&color=0e75b6&style=flat" alt="dineshchandra47" /> </p> -->
 
 
 <hr clear="both">
